@@ -1,6 +1,12 @@
 # OpticalMachineLearning
 Optical approaches for machine learning
 
+## Introduction
+
+* [Optically training](#S-training)
+* [Optically implementing](#S-implementing)
+* [Optical networks replacing neural networks](#S-networking)
+
 References:
 
 Kelvin Wagner and Demetri Psaltis, "Multilayer optical learning networks," Appl. Opt. 26, 5061-5076 (1987)
